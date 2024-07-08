@@ -1,17 +1,16 @@
 class Solution {
 public:
-    static int findTheWinner(int n, int k) {
-       if (n==1) return 1;
-       return (findTheWinner(n-1, k)+(k-1))%n+1;
+    int findTheWinner(int n, int k) {
+        vector<int> friends(n);
+        iota(friends.begin(), friends.end(), 1);
+        int current_position = 0;
+        
+        while (n > 1) {
+            current_position = (current_position + (k - 1)) % n;
+            friends.erase(friends.begin() + current_position);
+            n--;
+        }
+        
+        return friends[0];
     }
 };
-
-
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
