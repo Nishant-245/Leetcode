@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Nishant-245/Leetcode/tree/master/0044-wildcard-matching) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nishant-245/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Nishant-245/Leetcode/tree/master/0044-wildcard-matching) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishant-245/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Nishant-245/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishant-245/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Nishant-245/Leetcode/tree/master/1720-crawler-log-folder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Nishant-245/Leetcode/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Nishant-245/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
