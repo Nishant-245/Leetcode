@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [1036-rotting-oranges](https://github.com/Nishant-245/Leetcode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nishant-245/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nishant-245/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-245/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nishant-245/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Nishant-245/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -116,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nishant-245/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Nishant-245/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Linked List
 |  |
