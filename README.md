@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nishant-245/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-245/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/Nishant-245/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishant-245/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Nishant-245/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nishant-245/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-245/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-245/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nishant-245/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nishant-245/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-245/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-245/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nishant-245/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nishant-245/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-245/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-245/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nishant-245/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
