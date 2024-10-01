@@ -2,8 +2,8 @@ class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
         vector<int> v(k,0);
-        for(int num:arr){
-            int rem = num%k;
+        for(int i=0;i<arr.size();i++){
+            int rem = arr[i]%k;
             if(rem<0){
                 rem+=k;
             }
