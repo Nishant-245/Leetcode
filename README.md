@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Nishant-245/Leetcode/tree/master/0881-loud-and-rich) |
 | [1036-rotting-oranges](https://github.com/Nishant-245/Leetcode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/Nishant-245/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Nishant-245/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nishant-245/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Nishant-245/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Nishant-245/Leetcode/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/Nishant-245/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2502-sort-the-people](https://github.com/Nishant-245/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Nishant-245/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Nishant-245/Leetcode/tree/master/0726-number-of-atoms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Nishant-245/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-245/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/Nishant-245/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Nishant-245/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Nishant-245/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Nishant-245/Leetcode/tree/master/2502-sort-the-people) |
